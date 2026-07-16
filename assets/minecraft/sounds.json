@@ -1,0 +1,176 @@
+{
+  "entity.warden.agitated": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/idle1",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle2",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle3",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle4",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.ambient": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/idle1",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle2",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle3",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle4",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/death1",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.emerge": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/altar_finish",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/new_hurt_1",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },{
+        "name": "custom/apostle/new_hurt_2",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },{
+        "name": "custom/apostle/new_hurt_3",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },{
+        "name": "custom/apostle/new_hurt_4",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.listening_angry": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/idle1",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle2",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle3",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/idle4",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.roar": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/pre_teleport",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.sonic_charge": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/prepare_spell1",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      },
+      {
+        "name": "custom/apostle/prepare_spell2",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "entity.warden.sonic_boom": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/apostle/shoot",
+        "pitch": 1.0,
+        "volume": 1,
+        "weight": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "advancements.adventure.avoid_vibration.title": "最后的审判日",
+    "advancements.adventure.avoid_vibration.description":"在那些日子，人要求死，决不得死；愿意死，死却远避他们。(9:6)",
+    "advancements.nether.netherite_armor.description": "得到全套神灵金属护甲。",
+    "advancements.nether.netherite_armor.title": "神性铸魂",
+    "advancements.nether.obtain_ancient_debris.description": "获取神灵金属锭，黑暗金属锭的终极升级版。",
+    "advancements.nether.obtain_ancient_debris.title": "此物只应天上有",
+    "advancements.story.mine_diamond.description": "获得黑暗金属锭.",
+    "advancements.story.mine_diamond.title": "第十七号档案",
+    "advancements.story.shiny_gear.description": "得到全套黑暗盔甲.",
+    "advancements.story.shiny_gear.title": "黑暗镀躯",
+    "advancements.adventure.voluntary_exile.description": "看起来你已经引起了灾厄村民的真正注意...",
+    "advancements.adventure.voluntary_exile.title": "当电子steve，灭赛博刌民",
+
+    "entity.minecraft.warden": "亚波伦",
+
+    "gamerule.dowardenspawning": "生成亚波伦",
+
+    "effect.minecraft.darkness": "世界凝视着你",
+
+    "item.minecraft.warden_spawn_egg": "亚波伦刷怪蛋",
+    "item.minecraft.iron_ingot": "苍白金属锭",
+    "item.minecraft.gold_ingot": "诅咒金属锭",
+    "item.minecraft.emerald": "觉醒绿宝石",
+    "item.minecraft.diamond": "黑暗金属锭",
+    "item.minecraft.netherite_ingot": "神灵金属锭",
+    "item.minecraft.diamond_sword": "堕落之刃",
+    "item.minecraft.diamond_boots": "黑暗靴子",
+    "item.minecraft.diamond_chestplate": "黑暗胸甲",
+    "item.minecraft.diamond_helmet": "黑暗头盔",
+    "item.minecraft.diamond_leggings": "黑暗护腿",
+    "item.minecraft.netherite_sword": "断曜流光",
+    "item.minecraft.netherite_boots": "神灵金靴子",
+    "item.minecraft.netherite_chestplate": "神灵金胸甲",
+    "item.minecraft.netherite_helmet": "神灵金头盔",
+    "item.minecraft.netherite_leggings": "神灵金护腿",
+    "item.minecraft.leather_helmet": "女巫帽",
+
+    "block.minecraft.iron_block": "苍白金属块",
+    "block.minecraft.gold_block": "诅咒金属块",
+    "block.minecraft.emerald_block": "觉醒绿宝石块",
+    "block.minecraft.diamond_block": "黑暗金属块",
+
+    "options.darknesseffectscale.tooltip": "控制亚波伦或幽匿尖啸体给予的黑暗脉动效果程度。",
+
+    "subtitles.entity.warden.agitated": "使徒：低语",
+    "subtitles.entity.warden.ambient": "使徒：低语",
+    "subtitles.entity.warden.death": "使徒：死亡",
+    "subtitles.entity.warden.emerge": "仪式：结束",
+    "subtitles.entity.warden.hurt": "使徒：受伤",
+    "subtitles.entity.warden.listening_angry": "使徒：低语",
+    "subtitles.entity.warden.roar": "使徒：消失",
+    "subtitles.entity.warden.sonic_boom": "使徒：发射",
+    "subtitles.entity.warden.sonic_charge": "使徒：亵渎咏唱"
+}
